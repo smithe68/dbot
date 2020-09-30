@@ -1,0 +1,16 @@
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\CsDiscordBot.exe
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\CsDiscordBot.deps.json
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\CsDiscordBot.runtimeconfig.json
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\CsDiscordBot.runtimeconfig.dev.json
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\CsDiscordBot.dll
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\CsDiscordBot.pdb
+C:\Users\Evan\Desktop\project\CsDiscordBot\obj\Debug\netcoreapp3.1\CsDiscordBot.csprojAssemblyReference.cache
+C:\Users\Evan\Desktop\project\CsDiscordBot\obj\Debug\netcoreapp3.1\CsDiscordBot.AssemblyInfoInputs.cache
+C:\Users\Evan\Desktop\project\CsDiscordBot\obj\Debug\netcoreapp3.1\CsDiscordBot.AssemblyInfo.cs
+C:\Users\Evan\Desktop\project\CsDiscordBot\obj\Debug\netcoreapp3.1\CsDiscordBot.dll
+C:\Users\Evan\Desktop\project\CsDiscordBot\obj\Debug\netcoreapp3.1\CsDiscordBot.pdb
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\DSharpPlus.Interactivity.dll
+C:\Users\Evan\Desktop\project\CsDiscordBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Evan\Desktop\project\CsDiscordBot\obj\Debug\netcoreapp3.1\CsDiscordBot.csproj.CopyComplete
