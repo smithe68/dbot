@@ -41,6 +41,15 @@ namespace CsDiscordBot.Commands
             await Message(ctx, $"{result}");
         }
 
+        [Command("ping")]
+        [Description("says pong")]
+        public async Task Ping(CommandContext ctx) 
+        {
+            await Message(ctx, "pong");
+        }
+
+        
+
         [Command("shame")]
         [Description("Shames someone.")]
         public async Task Shame(CommandContext ctx)

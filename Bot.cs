@@ -67,17 +67,22 @@ namespace CsDiscordBot
         
 
         DateTime StartDate = DateTime.Now;
-        int vimCount = 1;
+        int vimCount = 0;
         private void doMessageReadingChecks(DiscordClient client){
            client.MessageCreated += async e =>{
                int numDays = (int)Math.Round((DateTime.Now - StartDate).TotalDays);
                if (e.Message.Content.ToLower().Contains("vim") && !e.Author.IsCurrent && !e.Author.IsBot){
+                   String[] message = e.Message.Content.ToLower().Split(" ");
+                   foreach(String word in message){
+                       if(word == "vim"){
+                           vimCount++;
+                       }
+                   }
                    if(numDays == 1){
                         await e.Message.RespondAsync($"it has been {numDays} day since vim has been mentiond vim has been said {vimCount} times");
                    }else{
                        await e.Message.RespondAsync($"it has been {numDays} days since vim has been mentiond vim has been said {vimCount} times");
                    }
-                   vimCount++;
                    StartDate = DateTime.Now;
                }
            };
